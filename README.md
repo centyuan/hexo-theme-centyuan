@@ -1,18 +1,10 @@
-> This HuWeihuang theme created by [HuWeihuang](http://www.huweihuang.com/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
+> This  theme created by centyuan modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
 > 
-> This theme has been published to the [hexo theme list](https://hexo.io/themes/).
+
 
 # Live Demo
+ [centyuan.github.io](https://centyuan.github.io)
 
-Hu Weihuang Blog : [www.huweihuang.com](http://www.huweihuang.com/)
-
-![Theme_HuWeihuang](http://ozilwgpje.bkt.clouddn.com/blog.jpg)
-
-# Copyright Notice
-
-**You can free to use this theme, but you need to keep the following copyright notice on the website.**
-
-<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1537879475/header/copyright.png" width="55%">
 
 # Install Hexo
 
@@ -120,6 +112,6 @@ hexo server # run hexo in local environment
 hexo deploy # hexo will push the static files automatically into the specific branch(gh-pages) of your repo!
 ```
 
-# Have fun ^_^ 
+# good^_^
 Please <a class="github-button" href="https://github.com/huweihuang/hexo-theme-huweihuang" data-icon="octicon-star" aria-label="Star huweihuang/hexo-theme-huweihuang on GitHub">Star</a> this Project if you like it! <a class="github-button" href="https://github.com/huweihuang" aria-label="Follow @huweihuang on GitHub">Follow</a> would also be appreciated!
 Peace!
