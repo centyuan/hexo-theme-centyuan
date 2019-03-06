@@ -16,3 +16,4 @@ catagories:
 
  
 ![test-picture](/img/article/hello-hexo.jpg)
+[个人博客](http://centyuan.top)
